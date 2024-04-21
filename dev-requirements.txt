@@ -1,0 +1,13 @@
+flake8 
+black 
+pytest
+mypy
+ipykernel
+scipy
+numpy
+pandas
+PIL
+scipy
+matplotlib
+skimage
+jupyter    
