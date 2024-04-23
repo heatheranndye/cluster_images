@@ -6,8 +6,8 @@ ipykernel
 scipy
 numpy
 pandas
-PIL
+pillow
 scipy
 matplotlib
-skimage
+scikit-image
 jupyter    
